@@ -49,7 +49,7 @@ const languageStrings = {
             GET_FACT_MESSAGE: "Here's your fact: ",
             HELP_MESSAGE: 'You can say tell me a Scrum Norris fact, or, you can say exit... What can I help you with?',
             HELP_REPROMPT: 'What can I help you with?',
-            STOP_MESSAGE: 'Goodbye!',
+            STOP_MESSAGE: 'Goodbye!'
         }
     },
     'en-GB': {
@@ -85,8 +85,8 @@ const languageStrings = {
             GET_FACT_MESSAGE: "Here's your fact: ",
             HELP_MESSAGE: 'You can say tell me a Scrum Norris fact, or, you can say exit... What can I help you with?',
             HELP_REPROMPT: 'What can I help you with?',
-            STOP_MESSAGE: 'Goodbye!',
-        },
+            STOP_MESSAGE: 'Goodbye!'
+        }
     }
 };
 
@@ -121,7 +121,7 @@ const handlers = {
     },
     'SessionEndedRequest': function () {
         this.emit(':tell', this.t('STOP_MESSAGE'));
-    },
+    }
 };
 
 exports.handler = (event, context) => {
