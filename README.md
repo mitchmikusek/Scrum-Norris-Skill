@@ -1,6 +1,8 @@
 # Scrum-Norris-Skill
 Alexa Skill for Scrum Norris Facts
 
+Supports Multi-Language (US, GB currently, with infrastructure for more)
+
 ## Example Utterances
 * Alexa, ask Scrum Norris to tell me a fact
 * Alexa, ask Scrum Norris to tell me about Scrum Norris
