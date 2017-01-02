@@ -1,14 +1,14 @@
 GetNewFactIntent a fact
-GetNewFactIntent a space fact
+GetNewFactIntent roundhouse kick a fact
+GetNewFactIntent a Scrum Norris fact
+GetNewFactIntent roundhouse kick a Scrum Norris fact
 GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a space fact
+GetNewFactIntent tell me a Scrum Norris fact
+GetNewFactIntent roundhouse kick me a Scrum Norris fact
 GetNewFactIntent give me a fact
-GetNewFactIntent give me a space fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a space trivia
-GetNewFactIntent give me trivia
-GetNewFactIntent give me a space trivia
-GetNewFactIntent give me some information
-GetNewFactIntent give me some space information
+GetNewFactIntent give me a Scrum Norris fact
 GetNewFactIntent tell me something
+GetNewFactIntent roundhouse kick something
 GetNewFactIntent give me something
+GetNewFactIntent tell me something about Scrum Norris
+GetNewFactIntent tell me about Scrum Norris
